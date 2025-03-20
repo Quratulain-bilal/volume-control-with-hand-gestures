@@ -19,7 +19,7 @@ An AI-powered hand gesture volume control system using **Python, OpenCV, MediaPi
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/hand-gesture-volume-control.git
+git clone https://github.com/Quratulain-bilal/volume-control-with-hand-gestures.git
 cd hand-gesture-volume-control
 2️⃣ Install Dependencies
 bash
