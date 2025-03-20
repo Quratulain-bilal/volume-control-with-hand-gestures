@@ -1,0 +1,36 @@
+
+# Hand Gesture Volume Control 🎛️🖐️  
+
+An AI-powered hand gesture volume control system using **Python, OpenCV, MediaPipe, and Pycaw**. Control system volume with your hand movements!  
+
+## 🚀 Features  
+✅ **Real-time hand tracking** with OpenCV & MediaPipe  
+✅ **Gesture-based volume control** (Palm open = Adjust volume)  
+✅ **Thumb Up/Down detection** for feedback  
+✅ **Smooth & responsive control**  
+
+## 🛠️ Technologies Used  
+🔹 **Python**  
+🔹 **OpenCV** - For computer vision processing  
+🔹 **MediaPipe** - For hand tracking  
+🔹 **Pycaw** - For controlling system volume  
+
+## 📌 Installation  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/hand-gesture-volume-control.git
+cd hand-gesture-volume-control
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run the Project
+bash
+Copy
+Edit
+python main.py
+
+📄 License
+This project is open-source. Feel free to use and improve it! 🎉
